@@ -32,4 +32,6 @@ RUP or Agile process
 
 
 **Software Quality Assuarance: **
-?
+Quality assuarance - all quality parameters should meet the standard of their deployment environment: 2x actual environment - college bus. == Deploying in Ramco System bus - contract..
+
+
