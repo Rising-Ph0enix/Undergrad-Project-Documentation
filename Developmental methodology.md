@@ -1,4 +1,4 @@
-# Development methodology chosen for my project
+# Development methodology chosen for IoT solution – high level:
 
 ### 1. Specify and design complex IoT systems using a lightweight IoT-A methodology
 
@@ -17,4 +17,9 @@ The operational view of the system contains information about computing devices 
 
 **Link** : [https://www.eclipse.org/community/eclipse\_newsletter/2016/april/article3.php](https://www.eclipse.org/community/eclipse_newsletter/2016/april/article3.php)
 
+**Developmental methodology chosen for software development sub activity:**
+
+RUP or Agile process
+
+**Link:** [http://www.ibm.com/developerworks/websphere/library/techarticles/0306\_perks/perks2.html](http://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks2.html)
 
