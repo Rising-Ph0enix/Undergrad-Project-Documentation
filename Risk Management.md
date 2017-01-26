@@ -12,6 +12,6 @@ Key points about Risk
 
 | S. No. | Risks | Potential way to reduce risk |
 | --- | --- | --- |
-| 1 | Budget is INR 5000. i) Degrading product quality to meet the budgetii) Over spending i.e. crossing the budget  | i) Freelancing ii) Project funds |
+| 1 | Budget is INR 5000. i) Degrading product quality to meet the budget ii) Over spending i.e. crossing the budget  | i) Freelancing  ii) Project funds |
 |   |   |   |
 
