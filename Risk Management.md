@@ -15,3 +15,12 @@ Key points about Risk
 | 1 | Budget is INR 5000. i) Degrading product quality to meet the budget ii) Over spending i.e. crossing the budget  | i) Freelancing  ii) Project funds |
 |   |   |   |
 
+
+**Phase 2** : Analyze the risks
+
+
+**Phase 3** : Develop a plan to min risks or max success
+
+
+
+**Phase 4** : Execute plan - mitigate risks
