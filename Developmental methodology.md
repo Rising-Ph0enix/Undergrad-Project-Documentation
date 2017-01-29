@@ -24,14 +24,3 @@ RUP or Agile process
 **Link:** [http://www.ibm.com/developerworks/websphere/library/techarticles/0306\_perks/perks2.html](http://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks2.html)
 
 
-**IOT Solutions Maturity Model: **
-
-**Description:** Capability Maturity Model (CMM) is evolutionary way of bettering the quality of your software dev process methodology.
-
-**Link:** http://www.techmahindra.com/sites/blogs/IOT_SOLUTIONS_MATURITY_MODEL.aspx
-
-
-**Software Quality Assuarance: **
-Quality assuarance - all quality parameters should meet the standard of their deployment environment: 2x actual environment - college bus. == Deploying in Ramco System bus - contract..
-
-
