@@ -1,4 +1,5 @@
-Stake Holders
+#Stake Holder Management
+**Manage high impact stake holders first and then move down**
 
 | S.No. | Stakeholder | Interest | Impact (0-5) |
 | --- | --- | --- | --- |
