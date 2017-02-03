@@ -1,0 +1,10 @@
+#Work Breakdown structure
+
+| S. No. | Phase | **Work** | Sub task 1 | Sub task 2 | Sub task 3 | Sub task 4 |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Analysis | Develop an android application for TNSTC Madurai division – smart city project | Get a minimum of temporary data set to work on + File an RTI for permanent data set with fare + all intermediate stop information etc. | Verify whether the temporary data set (intermediate stops) are all correct   |   |   |   |
+|   | Design |   |   | Design the database to store all of that data efficiently (temporary data)Note: Make sure that you can add fare &amp; other information with ease | Design the UI for the app(get an idea of what information will need to be displayed &amp; what services should be provided) | Design the interface for the app which will communicate with the cloud web service API(BASIC) |   |
+|   | Implementation |   |   | Store all of the temporary data in the designed database | Implement the UI | Implement the logic of the app &amp; get the location data of the location tracking subsystem[direct]( **Proof of concept** ) |   |
+|   |   |   |   |   |   | Implement the logic which gets location from the cloud service which stores the data received by the location tracking subsystem(indirect) | Add offline capabilities withj Madurai bus schedule |
+|   |   |   |   |   |   |   | Do it!! |
+
