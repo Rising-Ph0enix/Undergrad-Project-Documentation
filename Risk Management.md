@@ -19,5 +19,5 @@ Key points about Risk
 
 | S.No | Risk | Impact | Probability | Total | Mitigation | **Impact** | **Probability** | **Total** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 |   |   |   |   |   |   |   |   |
+| 1 | Not enough money to fund the project  | 5  | 4  | 20  | Freelancer, Upwork  | 3  | 3  | 9  |
 
