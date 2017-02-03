@@ -1,1 +1,0 @@
- ![Use Case diagram](https://creately.com/app/?tempID=gc7qvpsj1&login_type=demo#)
