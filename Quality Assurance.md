@@ -11,5 +11,6 @@ Quality assuarance - all quality parameters should meet the standard of their de
 
 **Useful links** 
 
-1.https://www.cognizant.com/InsightsWhitepapers/the-internet-of-things-qa-unleashed-codex1233.pdf 
+1.https://www.cognizant.com/InsightsWhitepapers/the-internet-of-things-qa-unleashed-codex1233.pdf
+
 2. http://www.techmahindra.com/sites/blogs/IOT_SOLUTIONS_MATURITY_MODEL.aspx
