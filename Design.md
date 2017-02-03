@@ -1,38 +1,15 @@
-**Note:** Make sure you incorporate additional features provided as one of the weight factors for your choosing a technological solution. Try to do the same for disadvantages -e.g. health hazards or environmental defects
 
-e.g. Camera has the additional advantage of providing security whereas sensor approach has the added advantage of footboard detection. 
+**Methodolgy:** 
 
-**Methodolgy:** *Use the approach you outlined in the email*
+1.Specify my problem requirements in detail
 
-High level design:
+2.List out some possible solutions
 
-IOT - 3 components
+3.Do lots of research about the solutions and see if you can find more solutions
 
-1. Thing
+4.Ask some people who are knowledgeable about the solutions or do more research and assign a priority / rating to each possible sol (rating is based on how best it matches the problem requirements)
 
-2. Connectivity 
-
-3. Computing
-
-**1.Thing**
-
-Bus:
-Need magic spell for Crowd estimation & finding location of bus
-(tracking using gps, crowdsourcing, putting gps at stops or somewhere else instead of on bus??)
-
-**2. Connectivity** 
-
-Need magic spell to 
-i) intra-connect the crowd estimation spell & i.e. communicate between crowd estimation spell & the location finder spell
-
-ii) inter-connect -- need communicate between the thing & the computing device...centralized or so.
-
-**3. Computing**
-
-1) Need magic spell to proces
-2) Need magic spell to display to user
-i) need basic spell for offline
-ii) Need advanced more powerful dynamic spell for those who have internet connectivity
+5.Choose the solution with highest rating
 
 
 
