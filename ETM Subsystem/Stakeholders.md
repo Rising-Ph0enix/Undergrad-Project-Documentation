@@ -3,6 +3,6 @@
 
 | S.No. | Stakeholder | Interest | Impact (0-5) |
 | --- | --- | --- | --- |
-| 1 | TNSTC | Needs the wireless connectivity of ETM to be able to be compatible with Location tracking subsystem | 4 | 
+| 1 | TNSTC | 1) Needs the wireless connectivity of ETM to be able to be compatible with Location tracking subsystem 2) Needs the wireless connectivity to be compatible with the existing ETM | 4 | 
 | 2 | Conductor | 1) Needs to be able to easily operate the ETM 2) Needs to be able to issue the ticket fast | 3.5 |
 
