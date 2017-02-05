@@ -47,3 +47,9 @@ AUto complete is HERE : You donn't need to reinvent the wheel! :)
 
 http://stackoverflow.com/questions/17380645/how-to-use-google-maps-search-functionality-api-in-my-application
 
+
+Server side language:
+
+1. NodeJS or python...
+
+You should also first determine the requirements of your server side script/program
