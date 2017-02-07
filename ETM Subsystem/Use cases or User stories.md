@@ -1,0 +1,33 @@
+#Use Cases/User stories
+
+**COMMON** : The conductor arrives at Bus Stand /Depot of TNSTC.  The buses are at bus stand/depot. The conductor asks which bus he is assigned to and collects the corresponding ETM from the Branch Manager.  Conductor gets on the bus.
+
+1. Conductor turns on/activates the ETM.  He checks the current stop ( **first** stop of that route initially). The current stop is correct.
+
+1. Conductor turns on/activates the ETM.  He checks the current stop ( **first** stop of that route). The current stop is incorrect. The conductor modifies the current stop.
+
+
+
+1. Passenger asks for a ticket for destination stop. Conductor presses a number which corresponds to the destination stop. The number pressed is displayed in the To: field. The number pressed is correct. Conductor&#39;s memory is right. The conductor presses an enter button which issues a ticket and sends the 3 parameters (Route No, Destination Stop for that ticket, Current Stop) to the location tracking subsystem.
+
+1. Conductor presses a number which is displayed in To: field. The number pressed is incorrect. Conductor uses a clear button to clear the To: field and re-enters another number. This time the number is correct. Conductor presses enter button which issues ticket and sends the 3 parameters (Route No, Destination Stop for that ticket, Current Stop) to the location tracking subsystem.
+
+
+
+1. Conductor enters &amp; re-enters the To: field information incorrectly several times. The conductor presses the Menu button which shows the mapping of destination stops to numbers on the keypad. Conductor presses the UP &amp; DOWN arrows to navigate the menu. Conductor presses the back button to go back to the From: To: Ticket issuing page. This time the conductor presses the right number. Presses enter button which issues ticket and sends the 3 parameters (Route No, Destination Stop for that ticket, Current Stop) to the location tracking subsystem.
+
+1. After completing the scheduled number of trips (to &amp; back) the conductor (may have changed) returns to the depot/bus stand – powers off the ETM machine.
+
+
+
+
+
+**COMMON** :
+
+**Note** : The current stop variable resides in permanent memory of the ETM &amp; hence retains its value after powering off the machine.
+
+**Note** : For all the above, the conductor presses the UP arrow button to update the current stop from which tickets are issued upstream and the  DOWN arrow button to do the same while traveling along the route in reverse direction.
+
+**Note** : In case the current stop is incorrect, conductor presses the Current Stop button to enter into Change Current Stop menu. Now the conductor can press the NUMBE R &amp; press enter to change the current stop. Same menu option to view mapping of stops to numbers is available.
+
+**Note** :  The From stop is displayed consistently on the machine
