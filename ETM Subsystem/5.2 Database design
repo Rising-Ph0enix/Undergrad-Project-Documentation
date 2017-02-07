@@ -1,0 +1,27 @@
+#Database design: (with sample data)
+
+**ETM side:**
+
+| **Bus Route No.** | **List of stops on route** | **Current Stop** |
+| --- | --- | --- |
+| 16J | Airport | Airport |
+|   | Avaniapuram |   |
+|   | Villapuram |   |
+|   | Therku vassal |   |
+|   | Narimedu |   |
+|   | Krishnapuram Colony |   |
+|   | Thapal Thanthi Nagar |   |
+
+**Cloud PaaS side: (need for matching of data)**
+
+| **Bus route No.** | **List of stops on route** | **Ticket Destination List Count** | **Current stop** | **Location (in lat &amp; long)** |
+| --- | --- | --- | --- | --- |
+| 16J | Airport |   | Avaniapuram | (37.5,96.9) |
+|   | Avaniapuram |   |   |   |
+|   | Villapuram | 7 |   |   |
+|   | Therku vassal | 3 |   |   |
+|   | Narimedu | 10 |   |   |
+|   | Krishnapuram Colony | 8 |   |   |
+|   | Thapal Thanthi Nagar | 6 |   |   |
+
+**Note:** Idea is whenever the current stop gets updated to call a function that removes the count of all the tickets where (destination stop==current stop)
