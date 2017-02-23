@@ -7,6 +7,13 @@
 5. https://blog.risingstack.com/node-js-database-tutorial/
 6. https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js
 7. http://socket.io/blog/native-socket-io-and-android/
-8. https://www.google.co.in/search?q=android+node.js&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=crKuWK7RBKvv8wfyhbeoDQ#q=android+client+node.js+server
-9. http://stackoverflow.com/questions/15826074/how-to-communicate-with-node-js-server-from-android-client
-10. 
+
+
+1. https://www.google.co.in/search?q=android+node.js&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=crKuWK7RBKvv8wfyhbeoDQ#q=android+client+node.js+server
+2. http://stackoverflow.com/questions/15826074/how-to-communicate-with-node-js-server-from-android-client
+
+
+1.  https://devcenter.heroku.com/articles/how-heroku-works
+2. https://dashboard.heroku.com/apps
+3. https://devcenter.heroku.com/categories/learning
+4. https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
