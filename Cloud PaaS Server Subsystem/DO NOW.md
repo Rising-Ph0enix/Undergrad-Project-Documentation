@@ -1,8 +1,13 @@
 # DB & REST API support 
 
 http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/#Using-MongoDB-with-Mongoose
+http://stackoverflow.com/questions/15826074/how-to-communicate-with-node-js-server-from-android-client
+https://causeyourestuck.io/2016/04/27/node-js-android-tcpip/
+(the above is pretty good)
 
 0. Learn about mongodb
+
+http://www.guru99.com/node-js-mongodb.html
 
 https://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html
 
