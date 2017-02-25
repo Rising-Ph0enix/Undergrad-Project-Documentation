@@ -1,0 +1,36 @@
+
+
+# Here&#39;s the JSON for my server side database:
+
+{
+
+    &quot;\_id&quot; : ObjectId(&quot;58b14f702f09608c8e552215&quot;),
+
+    &quot;RouteNo&quot; : &quot;16J&quot;,
+
+    &quot;Ticket&quot; : [
+
+        {
+
+            &quot;From&quot; : &quot;Airport&quot;,
+
+            &quot;To&quot; : &quot;Avaniapuram&quot;
+
+        },
+
+        {
+
+            &quot;From&quot; : &quot;Airport&quot;,
+
+            &quot;To&quot; : &quot;Narimedu&quot;
+
+        }
+
+    ],
+
+    &quot;Latitude&quot; : 9.83859,
+
+    &quot;Longitude&quot; : 78.089522
+
+}
+
