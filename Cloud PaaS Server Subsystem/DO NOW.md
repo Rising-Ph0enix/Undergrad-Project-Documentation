@@ -28,6 +28,8 @@ https://www.kompulsa.com/how-to-accept-and-parse-post-requests-in-node-js/
 
 http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
 
+Google "web service node js"  - scrolll down
+
 5. Deploy everything on the cloud 
 https://devcenter.heroku.com/articles/mean-apps-restful-api
 
