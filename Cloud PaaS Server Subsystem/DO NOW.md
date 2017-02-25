@@ -17,11 +17,21 @@ https://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html
 http://www.thecreativedev.com/step-step-node-js-tutorial-beginner/
 
 
-Now that you've learnt the basics - Use the knowledge & develop YOUR server side application & deploy on local.
+# Now that you've learnt the basics - Use the knowledge & develop YOUR server side application & deploy on local.
 
 2. Send post request from android to node
 
 https://www.kompulsa.com/how-to-send-a-post-request-in-android/
+
+Emulator 
+
+http://stackoverflow.com/questions/19527448/httpclient-stuck-on-android-with-genymotion-emulator
+
+http://bbowden.tumblr.com/post/58650831283/accessing-a-localhost-server-from-the-genymotion
+
+http://stackoverflow.com/questions/28966496/android-studio-emulator-eglsurfaceattrib-not-implemented/28975406#28975406
+
+Friend phone
 
 3. Receive the post request sent from android
 
