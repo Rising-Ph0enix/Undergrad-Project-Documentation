@@ -11,3 +11,7 @@ https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-d
 
 (maxime declaire's answer has a nice diagram)
 
+GUI for Git!! Awesome! :)
+
+https://www.gitkraken.com/download/linux-deb
+
