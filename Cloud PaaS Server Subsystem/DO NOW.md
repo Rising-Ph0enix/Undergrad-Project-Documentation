@@ -19,6 +19,20 @@ http://www.thecreativedev.com/step-step-node-js-tutorial-beginner/
 
 # Now that you've learnt the basics - Use the knowledge & develop YOUR server side application & deploy on local.
 
+Then develop a REST API for your local service
+
+
+4. Create a REST API for all of this
+
+http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
+
+Google "web service node js"  - scrolll down
+
+5. Deploy everything on the cloud 
+https://devcenter.heroku.com/articles/mean-apps-restful-api
+
+1. Configure your android app with GPS - every 10 seconds + the 3 critical values read & get read y to send
+
 2. Send post request from android to node
 
 https://www.kompulsa.com/how-to-send-a-post-request-in-android/
@@ -33,18 +47,6 @@ http://stackoverflow.com/questions/28966496/android-studio-emulator-eglsurfaceat
 
 Friend phone
 
-3. Receive the post request sent from android
-
-https://www.kompulsa.com/how-to-accept-and-parse-post-requests-in-node-js/
-
-4. Create a REST API for all of this
-
-http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
-
-Google "web service node js"  - scrolll down
-
-5. Deploy everything on the cloud 
-https://devcenter.heroku.com/articles/mean-apps-restful-api
 
 5. Sending post from node to android
 
