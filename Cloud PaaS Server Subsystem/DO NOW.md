@@ -22,6 +22,7 @@ http://www.thecreativedev.com/step-step-node-js-tutorial-beginner/
 
 Then develop a Web Service for your local service
 Then REST if possible else leave it.
+You can use POSTMAN to test HTTP requests to your app... :)  GUI client
 
 4. Create a REST API for all of this
 
