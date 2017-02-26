@@ -19,8 +19,9 @@ http://www.thecreativedev.com/step-step-node-js-tutorial-beginner/
 
 # Now that you've learnt the basics - Use the knowledge & develop YOUR server side application & deploy on local.
 
-Then develop a REST API for your local service
 
+Then develop a Web Service for your local service
+Then REST if possible else leave it.
 
 4. Create a REST API for all of this
 
