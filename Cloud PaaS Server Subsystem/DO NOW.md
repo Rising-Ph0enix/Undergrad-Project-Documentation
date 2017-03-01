@@ -55,3 +55,28 @@ Friend phone
 5. Sending post from node to android
 
 The android phone app sends a Htpp get request - & the corresponding function that responds is present in node.js
+
+ETM - MODULE:
+GPS:  (study , understand then do)
+https://www.codeproject.com/articles/665527/a-gps-location-plotting-android-application
+
+https://www.javacodegeeks.com/2010/09/android-location-based-services.html
+
+http://www.cs2guru.com/android/android-gps-location-tutorial-location-manager/
+
+http://blog.techmagic.co/location-tracking-experiments-in-android/
+
+https://developer.android.com/training/location/index.html
+(new Fused Locatin Provider..serviceis...tree house !! Search..)
+TESTING: RIGOROUSLY TEST UNTIL MEETS QUALITY PARAMETERS
+DEPLOYMENT:EXPORT 
+
+CLIENT APP - MODULE:
+DB
+From-To
+
+TNSTC ETM ROUTE PROGRAMMING MODULE:
+
+IEEE Paper
+
+
