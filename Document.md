@@ -44,6 +44,20 @@ NEW ACTIVITY - 2 buttons
 8. Extend server side API to handle the HTTP Post request...
 (to receive data)
 
+Client side - /client/HTTP POST<routeNo>
+
+Server Side - response - res.send(latitude);
+res.send(longitude);
+res.send(crowd);
+
+Clientside - onResponse (String response) - volley library
+{
+var crowd=res.crowd;
+var lat=res.lat;
+var lon=res.long;
+Update the UI with your info...
+}
+
 9. Material design
 
 10. TNSTC website
