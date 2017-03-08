@@ -1,3 +1,8 @@
+http://stackoverflow.com/questions/25647881/android-asynctask-example-and-explanation
+
+https://androidresearch.wordpress.com/2012/03/17/understanding-asynctask-once-and-forever/
+
+
 NOTE: HTTP POST is not required to be put in a separate async task - api 111 n/w optns on separate task
 
 Start Documenting the entire process of your project
