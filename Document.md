@@ -1,3 +1,12 @@
+Service:
+
+https://developer.android.com/guide/components/services.html
+
+https://developer.android.com/training/run-background-service/create-service.html
+
+
+https://www.tutorialspoint.com/android/android_services.htm
+
 http://stackoverflow.com/questions/25647881/android-asynctask-example-and-explanation
 
 https://androidresearch.wordpress.com/2012/03/17/understanding-asynctask-once-and-forever/
