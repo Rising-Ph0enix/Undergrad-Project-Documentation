@@ -35,6 +35,12 @@ https://www.quora.com/Can-we-keep-more-than-one-class-in-a-single-java-file
 
 Is it possible to change the GPS - public class - to a private class - yes!
 
+i) Study Service Lifecycle & Activity lifecycle - compare & contrast
+
+ii) Study How Google has implemented its lifecycle & convert that for Service lifecycle.
+
+iii) Make sure you include your permissions for you app - create a new activity which calls activitycompat.requestpermissions. :)
+
 5. Modify GPS & ADD POST
 
 Use Google's volley library - easy - TEST
