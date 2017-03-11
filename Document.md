@@ -41,9 +41,7 @@ ii) Study How Google has implemented its lifecycle & convert that for Service li
 
 iii) Make sure you include your permissions for you app - create a new activity which calls activitycompat.requestpermissions. :)
 
-### iv) RUN GPS SERVICE CODE in separate thread
-
-### v) Make the Service stop running after the MainActivity.closes - onDestroy()
+### iv)Use an IntentService() to perform the Google GPS computation....!!!
 
 5. Modify GPS & ADD POST
 
