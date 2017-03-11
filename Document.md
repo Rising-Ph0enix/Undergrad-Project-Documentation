@@ -43,6 +43,10 @@ iii) Make sure you include your permissions for you app - create a new activity 
 
 ### iv)Use an IntentService() to perform the Google GPS computation....!!!
 
+http://fedepaol.github.io/blog/2011/04/25/behind-activities-android-services/
+
+https://android.jlelse.eu/using-intentservice-vs-asynctask-in-android-2fec1b853ff4#.iicgt1k6n
+
 5. Modify GPS & ADD POST
 
 Use Google's volley library - easy - TEST
