@@ -47,6 +47,18 @@ http://fedepaol.github.io/blog/2011/04/25/behind-activities-android-services/
 
 https://android.jlelse.eu/using-intentservice-vs-asynctask-in-android-2fec1b853ff4#.iicgt1k6n
 
+
+Useful stuff in implementing the above:
+
+http://stackoverflow.com/questions/11035231/how-to-get-gps-location-using-asynctask
+
+http://stackoverflow.com/questions/21504776/using-asynctask-to-get-location-information
+
+http://stackoverflow.com/questions/29219144/requestlocationupdates-in-separate-thread
+
+http://stackoverflow.com/questions/5676653/how-to-get-location-using-asynctask
+
+
 5. Modify GPS & ADD POST
 
 Use Google's volley library - easy - TEST
