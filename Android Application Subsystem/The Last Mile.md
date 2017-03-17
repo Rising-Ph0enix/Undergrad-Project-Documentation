@@ -1,0 +1,31 @@
+** Server **
+
+app.use(bodyParser.json())
+
+res.json({Latitude : 32.234});
+
+(little bit below the beginning)
+
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4  
+
+You may require this:
+
+(ctrl+f - route spefcific)
+
+https://www.npmjs.com/package/body-parser
+
+
+
+** Client ** 
+
+** Barebone structure **
+
+http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/
+
+For parsing the JSON object at the client side - you can try this:
+
+https://www.tutorialspoint.com/android/android_json_parser.htm
+
+and
+
+http://stackoverflow.com/questions/5566669/how-to-parse-a-json-object-in-android
