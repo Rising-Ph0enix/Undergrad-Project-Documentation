@@ -1,5 +1,12 @@
 **NOTE:**
 
+Learn about HTTP properly.
+
+https://www.jmarshall.com/easy/http
+
+
+**NOTE:**
+
 Check the interfacing to see that they are compatible
 
 http://www.androidhive.info/2014/09/android-json-parsing-using-volley/
