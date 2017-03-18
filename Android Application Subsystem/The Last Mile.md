@@ -1,4 +1,4 @@
-** Server **
+**Server**
 
 app.use(bodyParser.json())
 
