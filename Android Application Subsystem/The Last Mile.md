@@ -1,3 +1,9 @@
+**NOTE:**
+
+Check the interfacing to see that they are compatible
+
+http://www.androidhive.info/2014/09/android-json-parsing-using-volley/
+
 **Server**
 
 app.use(bodyParser.json())
