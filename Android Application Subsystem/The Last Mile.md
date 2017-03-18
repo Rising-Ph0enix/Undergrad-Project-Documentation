@@ -26,6 +26,13 @@ https://www.youtube.com/watch?v=KSdlX93m-3A
 https://www.tutorialspoint.com/json/json_objects.htm
 
 
+**NOTE:**
+
+Protocol is to send it as a string but express allows you to send it as a json object - internally json(parse) is done by express.
+
+http://stackoverflow.com/questions/22580998/nodejs-response-json-object-or-json-stringify 
+
+
 
 
 **Client** 
