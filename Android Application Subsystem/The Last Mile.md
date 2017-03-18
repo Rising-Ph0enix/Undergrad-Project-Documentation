@@ -16,6 +16,16 @@ https://www.npmjs.com/package/body-parser
 
 
 
+(setting the header to application/json so the json object listener can know...)
+http://stackoverflow.com/questions/5892569/responding-with-a-json-object-in-nodejs-converting-object-array-to-json-string
+
+
+If you have to send a JSON object you could try this:
+https://www.youtube.com/watch?v=KSdlX93m-3A
+
+
+
+
 ** Client ** 
 
 ** Barebone structure **
