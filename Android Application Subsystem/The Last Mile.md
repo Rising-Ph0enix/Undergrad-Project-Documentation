@@ -23,12 +23,14 @@ http://stackoverflow.com/questions/5892569/responding-with-a-json-object-in-node
 If you have to send a JSON object you could try this:
 https://www.youtube.com/watch?v=KSdlX93m-3A
 
+https://www.tutorialspoint.com/json/json_objects.htm
 
 
 
-** Client ** 
 
-** Barebone structure **
+**Client** 
+
+**Barebone structure**
 
 http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/
 
