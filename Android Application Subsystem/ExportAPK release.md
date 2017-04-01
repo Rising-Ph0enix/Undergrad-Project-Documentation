@@ -1,3 +1,6 @@
+
+NOTE: Leave out the alias part as it may not work 
+
 1) Build -> Generate Signed APK
 
 2) Create Keystore
