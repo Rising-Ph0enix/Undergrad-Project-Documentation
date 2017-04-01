@@ -15,8 +15,23 @@
 
 5) Fill organization : Sample
 
-
 Next -> finish
+
+NOTE: You can also use the same key that you used for debug in the release version but not recommended due to security reasons!
+
+Idea: In android view (left window/pane/side bar) by default.
+
+Switch to Project from android view.
+
+In project:
+
+app -> src -> debug -> res -> values -> google_maps_api.xml
+
+Use the same key in
+
+app -> src -> debug -> res -> values -> google_maps_api.xml
+
+SECURE VERSION: 
 
 Oracle JDK path on my system: In Program Files (x86) not program files!!
 
