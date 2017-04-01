@@ -31,13 +31,13 @@ Use the same key in
 
 app -> src -> debug -> res -> values -> google_maps_api.xml
 
-**SECURE VERSION:** 
+**SECURE VERSION: This is NOT Secure version this is MANDATORY - ignore the previous note** 
 
 Oracle JDK path on my system: In Program Files (x86) not program files!!
 
 cd to 
 
-C:\Program Files (x86)\jdk 1.8 (press tab)\bin
+C:\Program Files (x86)\Java\jdk 1.8 (press tab)\bin
 
 Use this command with your credentials...
 
