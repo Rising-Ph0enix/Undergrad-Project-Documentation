@@ -47,4 +47,14 @@ Get sha1 & use it in your google maps api developers console (after signing in t
 
 This is for your release key :)
 
+LESSON:
+
+1) You can use the same key for debug and release in case of Google Maps Activity - but you have to add the SHA - 1 key from keystore to your app in case of release apk
+
+2) If can't install apk on phone - uninstall the previous version of the application.
+
+3) For release, the api key needs to be hardcoded in the android manifest file.
+
+4) 
+
 
